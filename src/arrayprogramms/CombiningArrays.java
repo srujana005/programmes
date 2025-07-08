@@ -13,6 +13,7 @@ public class CombiningArrays {
 		System.arraycopy(a1, 0, a3, 0, a1.length);
 		System.arraycopy(a2, 0, a3, a1.length, a2.length);
 		System.out.println(Arrays.toString(a3));
+		System.out.println("new code");
 
 	}
 

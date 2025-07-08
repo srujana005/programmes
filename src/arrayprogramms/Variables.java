@@ -12,7 +12,7 @@ public class Variables
 	{
 		System.out.println(c);
 		System.out.println(b);
-	System.out.println("hello");
+	System.out.println("hi");
 		
 	}
 	
